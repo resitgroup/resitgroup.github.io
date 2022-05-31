@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "RESIT Research Group"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -178,7 +178,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  团队成员:
     output: true
     permalink: /:collection/:path/
   portfolio:
